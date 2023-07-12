@@ -27,3 +27,4 @@ void Actualiza(int & Espacio[N][N]){
 
 
 }
+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
